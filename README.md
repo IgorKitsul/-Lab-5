@@ -1,5 +1,6 @@
 # -Lab-5
 Теорія Алгоритмів Lab 5
+
 #include <stdio.h>
 #include <stdlib.h>
 void transformArray(int *arr, int size) {  
